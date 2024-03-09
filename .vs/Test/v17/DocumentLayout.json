@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQR95\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\people\\peoplebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\people\\peoplebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|c:\\users\\sqr95\\test\\assets\\script\\ui\\uitablecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\uitablecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\thework\\clickandselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thework\\clickandselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\cities\\citydatacenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cities\\citydatacenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\ui\\buttonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\buttonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\people\\peoplefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\people\\peoplefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\ui\\sliderfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\sliderfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\thework\\worldspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thework\\worldspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\people\\peopleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\people\\peopleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\SQR95\\Test\\assets\\script\\cities\\citydatarecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cities\\citydatarecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UITableContent.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\UI\\UITableContent.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\UI\\UITableContent.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\UI\\UITableContent.cs",
+              "RelativeToolTip": "Assets\\script\\UI\\UITableContent.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:18:28.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "worldSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\TheWork\\worldSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\TheWork\\worldSpeed.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\TheWork\\worldSpeed.cs",
+              "RelativeToolTip": "Assets\\script\\TheWork\\worldSpeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T21:59:39.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "peopleFactor.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\people\\peopleFactor.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\people\\peopleFactor.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\people\\peopleFactor.cs",
+              "RelativeToolTip": "Assets\\script\\people\\peopleFactor.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAmwLcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T21:56:41.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "peopleAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\people\\peopleAttribute.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\people\\peopleAttribute.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\people\\peopleAttribute.cs",
+              "RelativeToolTip": "Assets\\script\\people\\peopleAttribute.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:24:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityDataCenter.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\Cities\\CityDataCenter.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Cities\\CityDataCenter.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\Cities\\CityDataCenter.cs",
+              "RelativeToolTip": "Assets\\script\\Cities\\CityDataCenter.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:07:18.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "peopleBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\people\\peopleBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\people\\peopleBehavior.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\people\\peopleBehavior.cs",
+              "RelativeToolTip": "Assets\\script\\people\\peopleBehavior.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwGcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:50:56.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SliderFunction.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\UI\\SliderFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\UI\\SliderFunction.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\UI\\SliderFunction.cs",
+              "RelativeToolTip": "Assets\\script\\UI\\SliderFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:13:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClickAndSelect.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\TheWork\\ClickAndSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\TheWork\\ClickAndSelect.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\TheWork\\ClickAndSelect.cs",
+              "RelativeToolTip": "Assets\\script\\TheWork\\ClickAndSelect.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:11:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonFunction.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\UI\\ButtonFunction.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\UI\\ButtonFunction.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\UI\\ButtonFunction.cs",
+              "RelativeToolTip": "Assets\\script\\UI\\ButtonFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:24:18.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityDataRecord.cs",
+              "DocumentMoniker": "C:\\Users\\SQR95\\Test\\Assets\\script\\Cities\\CityDataRecord.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Cities\\CityDataRecord.cs",
+              "ToolTip": "C:\\Users\\SQR95\\Test\\Assets\\script\\Cities\\CityDataRecord.cs",
+              "RelativeToolTip": "Assets\\script\\Cities\\CityDataRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:49:14.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
